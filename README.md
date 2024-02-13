@@ -2,11 +2,12 @@
 
 - 🧑🏻‍💻 Software Engineer at [Google](https://github.com/google)
 - 🐍 Programming languages and design patterns enthusiast
+  - 🛠️ Forged by C/C++
   - ☕️ Java and server backend
   - 🐍 Python and scripting
 - 💾 Worked on device drivers in the past 😵‍💫💫
 - 🌱 Learning ML and GCP
-- 📱 Dabbles in Android, iOS
+- 💎 Dabbling in webdev
 
 ---
 
