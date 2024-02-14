@@ -13,5 +13,5 @@
 
 - 🔠 English 🇺🇸 / Bahasa Indonesia 🇮🇩 / 日本語 🇯🇵
 - 📫 code@swijaya.com
-- ⚡ Writing and reading beautiful code gives me a dopamine rush like no other!
+- ⚡ Beautiful code is my dopamine source
 - 🎮 Video games and anime
