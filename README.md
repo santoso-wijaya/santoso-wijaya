@@ -12,6 +12,6 @@
 ---
 
 - 🔠 English 🇺🇸 / Bahasa Indonesia 🇮🇩 / 日本語 🇯🇵
-- 📫 code@swijaya.com
+- 📫 code@swijaya.me
 - ⚡ Beautiful code is my dopamine source
 - 🎮 Video games and anime
