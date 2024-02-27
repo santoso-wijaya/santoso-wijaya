@@ -14,4 +14,5 @@
 - 🔠 English 🇺🇸 / Bahasa Indonesia 🇮🇩 / 日本語 🇯🇵
 - 📫 code@swijaya.me
 - ⚡ Beautiful code is my dopamine source
+- <kbd>h</kbd><kbd>j</kbd><kbd>k</kbd><kbd>l</kbd> is home
 - 🎮 Video games and anime
