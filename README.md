@@ -6,8 +6,8 @@
   - ☕️ Java and server backend
   - 🐍 Python and scripting
 - 💾 Worked on device drivers in the past 😵‍💫💫
-- 🌱 Learning ML and GCP
-- 💎 Dabbling in webdev
+- 🌱 Learning ML
+- ⚙️ Dabbling in Rust and webdev
 - <kbd>h</kbd><kbd>j</kbd><kbd>k</kbd><kbd>l</kbd> is home
 
 ---
